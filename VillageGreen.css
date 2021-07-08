@@ -1,0 +1,173 @@
+
+.img_a {
+    width:950px;
+    margin-left:40px;
+   
+}
+.img_logo{
+    width:420px;
+    margin-top: -10px;
+    margin-right: -4px;
+}
+
+.img_b {
+
+    width:235px;
+    float: right;
+
+}
+.img_c {
+margin-top:45px;
+margin-left: -12px;
+width: 102%;
+margin-right: -135px;
+margin-bottom: 18px;
+}
+.img_d{
+    margin-left: -6px;
+   width: 100%;
+}
+.container{
+    width:100%;
+}
+
+.navone{
+
+    padding-left: 770px;
+    margin-right: -50px;
+    text-align: right;
+    font-weight: bold;
+    font-size: 20px;
+    color:rgba(5, 6, 102, 0.87);
+    text-decoration: none;
+}
+.navonetwo{
+    font-weight: bold;
+    text-align: right;
+    font-size: 20px;
+    color:rgba(5, 6, 102, 0.87);
+    text-decoration: none;
+    
+}
+.secondary_bar{
+    
+text-align:center;
+padding-left: 350px;
+
+}
+
+.secondary{
+    margin-right: 22px;
+   padding-left: 30px;
+   margin-left: 20px;
+   font-weight: bold;
+    font-size: 32px;
+    color:white;
+    text-decoration:none;
+    
+}
+.dark_navbar{
+    padding-left: 355px;
+}
+.dark{
+   
+    margin-left: 30px;
+    font-size: 22px;
+    color:white;
+    text-decoration: none;
+}
+
+body{
+    
+    color:black;
+background-color:white;
+    background-image:url(Charte/BACKGROUND/background_village.png);
+}
+article{
+    margin-left: 12px;
+    margin-right:12px;
+ 
+
+    background-color:rgba(255, 255, 255, 0.863);
+}
+.nav-link{
+
+    font-size: 28px;
+    color:rgb(255, 255, 255);
+margin-bottom: 10px;
+    width:300px;
+}
+.nav-link-img{
+  width: 56px;
+  font-size: 28px;
+  margin-right: 5px;
+}
+
+
+.html{
+    width: 100%;
+}
+.categories{
+    
+    width: 100%;
+}
+.cat{
+    font-weight: bold;
+    margin-left: 38px;
+    text-decoration: none;
+    font-size: 30px;
+    color: rgba(5, 6, 102, 0.87);
+}
+.box{
+    margin-left: 12px;
+}
+.navbar{
+padding-left: 100px;
+    background-color:rgba(255, 255, 255, 0.863);
+}
+.partenaires{  
+    font-weight: bold;
+    text-decoration: none;
+
+    margin-top: -200px;
+  font-size: 30px;
+margin-left: 352px;
+    color: rgba(5, 6, 102, 0.87);
+}
+.m_ventes{
+  font-weight: bold;
+ margin-left: 25px;
+    text-decoration: none;
+    font-size: 30px;
+    color: rgba(5, 6, 102, 0.87);
+}
+.saxo{
+    width: 300px;
+    height: 180px;
+}
+.p{
+    margin-bottom: 10px;
+    margin-left: 6px;
+    width: 301px;
+    height: 180px;
+}
+.pia{
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 60px;
+    margin-bottom: 50px;
+}
+.sax{
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-bottom: 50px;
+}
+.gui{
+    margin-top: 20px;
+    margin-left: 25px;
+    margin-bottom: 50px;
+}
+.p_logo{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
