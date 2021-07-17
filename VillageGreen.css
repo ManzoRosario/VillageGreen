@@ -24,12 +24,13 @@ margin-right: -135px;
 margin-bottom: 18px;
 }
 .img_d{
-    margin-left: -6px;
-   width: 100%;
+   margin-top: -18px;
+padding-right: -26px;
+margin-left: -19px;
+width: 1300px;
+
 }
-.container{
-    width:100%;
-}
+
 
 .navone{
 
@@ -49,6 +50,7 @@ margin-bottom: 18px;
     text-decoration: none;
     
 }
+
 .secondary_bar{
     
 text-align:center;
@@ -171,3 +173,61 @@ margin-left: 352px;
     margin-top: 20px;
     margin-bottom: 50px;
 }
+h1{
+    padding-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.img_guit{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+.img_cla{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+.img_stu{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+.img_bat{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+.img_sono{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+.img_ecla{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+.img_dj{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+.img_cases{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+.img_acces{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+.img_instru_vent{
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+
+
+
